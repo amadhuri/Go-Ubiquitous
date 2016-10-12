@@ -17,13 +17,18 @@ Submitted by: Madhuri Athota
 
 ## User Stories
 
+The following **required** functionality is completed:
+
+* [O] User can see the watch face.
+* [O] Weather icon and temperatures are pulled from phone and displayed on watchface
+* [O] To save battery gray images are drawn in ambient mode
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/amadhuri/Go-Ubiquitous/watchface.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/amadhuri/Go-Ubiquitous/blob/master/watchface.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
